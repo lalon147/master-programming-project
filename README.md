@@ -1,19 +1,17 @@
-# Getting Started with Create React App
+The Name of the Website "Master Programming"
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Preview of the Website:https://master-programming-e5574.firebaseapp.com/
 
-## Available Scripts
+##The Special Feature of this Website : #1.You can see an graph Showing How may People Bought the Course LAst Year 
+#2.Dark Mode is Available Also Light Mode
+ #3.React-hot-toast is Used So whenever Logged in or out it will Render a Toast
+  #4.the Topics given here are all real Python Programming Language Topics used Again and again to create dummy data;
 
-In the project directory, you can run:
+#5.There are Some Blogs that You can Read to Explore Many Doubted Topics Like Cors
 
-### `npm start`
+##The Frameworks Which Are Used #1.Tailwind Css #2.Component Library of Tailwind Css DaisyUi #3.firebase is used for authentication
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
+This project was bootstrapped with Create React App.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
